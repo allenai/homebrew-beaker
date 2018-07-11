@@ -1,4 +1,4 @@
-class  < Formula
+class beaker < Formula
   desc "Beaker command-line tool."
   homepage "https://beaker.allenai.org"
   url "https://github.com/allenai/beaker/releases/download/v20180630/beaker_mac.tar.gz", :using => GitHubPrivateRepositoryReleaseDownloadStrategy
