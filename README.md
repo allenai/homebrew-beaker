@@ -8,6 +8,6 @@ Users should never need to interact with this repository directly. For detailed 
 please refer to the [Beaker](https://github.com/allenai/beaker) repository.
 
 ```bash
-brew tap allenai/homebrew-beaker git@github.com:allenai/homebrew-beaker.git
+brew tap allenai/homebrew-beaker https://github.com/allenai/homebrew-beaker.git
 brew install beaker
 ```
