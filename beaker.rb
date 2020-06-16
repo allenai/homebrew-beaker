@@ -1,9 +1,9 @@
 class Beaker < Formula
   desc "Beaker command-line tool."
   homepage "https://beaker.allenai.org"
-  url "https://github.com/allenai/beaker/releases/download/v20200430/beaker_mac.tar.gz"
-  version "20200430"
-  sha256 "0b7aa41408524824ad56555397d6a7cc20181103304baf1fc7c349c73ed4655a"
+  url "https://github.com/allenai/beaker/releases/download/v20200616/beaker_mac.tar.gz"
+  version "20200616"
+  sha256 "386d070496ac1d6cd17802755d08c3e0867d4cf1dce3e80b49dd248f6ff0af88"
 
   def install
     bin.install "beaker"
